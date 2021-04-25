@@ -1,7 +1,3 @@
-- Hi, I’m Jean.
-- Right now I’m interested in/learning Web Development.
-- My favorite hobbies are writing and reading fiction and practicing yoga.
-- I just graduated college (December 2020).
-- I want to travel when Covid is over and it's safe again.
-- My favorite coding language so far is python.
-
+<h1>Hi, I’m Jean👋👩🏻‍💻</h1>
+<br>
+<p>I am working on building personal finance calculators with javascript. I also have some other python and javascript projects here. </p>

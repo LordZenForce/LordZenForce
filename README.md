@@ -1,3 +1,3 @@
 <h1>Hi, I’m Jean👋👩🏻‍💻</h1>
 <br>
-<p>I am working on building personal finance calculators with javascript. Currently a beginner right now, but I hope to be a employed developer within five years and maybe work remotely.</p>
+<p>I am working on building personal finance calculators with javascript. Currently a beginner right now, but I hope to be a employed developer in a few years and maybe work remotely.</p>
